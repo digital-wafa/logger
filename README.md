@@ -1,4 +1,8 @@
 # @digital-wafa/logger
+![npm version](https://img.shields.io/npm/v/@digital-wafa/logger)
+![build](https://img.shields.io/travis/com/digital-wafa/logger/master)
+![codecov](https://img.shields.io/codecov/c/github/digital-wafa/logger/master)
+![types](https://img.shields.io/npm/types/typescript)
 
 it's a sample library to log to the console only when your programs are running in dev or test environment
 
