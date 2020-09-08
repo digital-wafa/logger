@@ -12,7 +12,8 @@
   "scripts": {
     "build": "rollup -c",
     "test": "jest --coverage",
-    "report": "codecov"
+    "report": "codecov",
+    "prepare": "npm run build"
   },
   "keywords": [
     "logger",
